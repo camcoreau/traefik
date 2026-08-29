@@ -1,3 +1,12 @@
+> [!NOTE]
+> This repository is an unchanged fork of
+> [Traefik](https://github.com/traefik/traefik) retained under the CamCore
+> account and currently trails upstream development. The current default branch
+> contains no CamCore-specific implementation. Its presence does not establish
+> an active CamCore deployment, CamCore support responsibility or CamCore
+> authorship of Traefik. Use the upstream project for current source,
+> documentation, releases and support. The upstream README and
+> [MIT Licence](LICENSE.md) are preserved below.
 
 <p align="center">
     <picture>
