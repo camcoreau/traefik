@@ -8,6 +8,14 @@
 > documentation, releases and support. The upstream README and
 > [MIT Licence](LICENSE.md) are preserved below.
 
+<!-- CAMCORE-REPOSITORY-BRANDING:START -->
+<p align="center">
+  <a href="https://camcore.au">
+    <img src=".github/brand/camcore-repository-banner.svg" alt="CamCore" width="520">
+  </a>
+</p>
+<!-- CAMCORE-REPOSITORY-BRANDING:END -->
+
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/content/assets/img/traefik.logo-dark.png">
